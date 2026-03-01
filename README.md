@@ -1,4 +1,4 @@
-### 💬 Quote
+### 💬 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 <picture>
   <source media="(prefers-color-scheme: dark)" 
