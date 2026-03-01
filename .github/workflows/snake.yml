@@ -12,7 +12,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: joao-m-ferreira
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=yellow&color_dots=white
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
