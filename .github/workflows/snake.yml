@@ -14,7 +14,7 @@ jobs:
           github_user_name: joao-m-ferreira
           outputs: |
             dist/snake-dark.svg?color_snake=%23E04232&color_dots=%23FFFFFF&color_bg=%234F60D2
-            dist/snake-light.svg?color_snake=%23E04232&color_dots=%23FADD0B
+            dist/snake-light.svg?color_snake=%23E04232&color_dots=%23FADD0B&color_bg=%234F60D2
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
